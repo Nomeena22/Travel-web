@@ -8,7 +8,7 @@ function Home() {
       <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col items-center justify-center">
         <h1 className="text-4xl md:text-6xl font-bold text-white">Explore the World with Us</h1>
         <p className="text-lg">Discover Amazing places at exclusive deals</p>
-        <button>Get Started</button>
+        <button className=" p-8 rounded-md font-bold">Get Started</button>
       </div>
     </div>
   );
